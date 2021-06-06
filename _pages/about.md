@@ -14,31 +14,31 @@ He is currently also a research intern at [Descript](https://www.descript.com/),
 
 # Publications
 **Wu, H. H.**, Fuentes, M., Bello, J. P. (2021). Exploring Modality-Agnostic Representations for Music Classification. SMC, 2021.
-<a href="https://arxiv.org/pdf/2106.01149.pdf" target="_blank"><i class="far fa-file-pdf"></i></a> <a href="https://github.com/hohsiangwu/crossmodal" target="_blank"><i class="fab fa-github"></i></a>
+<a href="https://arxiv.org/pdf/2106.01149.pdf" target="_blank"><i class="fas fa-book"></i></a> <a href="https://github.com/hohsiangwu/crossmodal" target="_blank"><i class="fab fa-github"></i></a>
 
 **Wu, H. H.**, Kao, C., Tang, Q., Sun, M., McFee, B., Bello, J. P., & Wang, C. (2021). Multi-task Self-supervised Pre-training for Music Classification. ICASSP, 2021.
-<a href="https://arxiv.org/pdf/2102.03229.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="https://arxiv.org/pdf/2102.03229.pdf" target="_blank"><i class="fas fa-book"></i></a>
 
 Cartwright, M., Cramer, J., Mendez, A. E. M., Wang, Y., **Wu, H. H.**, Lostanlen, V., & Nov, O. (2020). SONYC-UST-V2: An Urban Sound Tagging Dataset with Spatiotemporal Context. DCASE2020.
-<a href="https://arxiv.org/pdf/2009.05188.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="https://arxiv.org/pdf/2009.05188.pdf" target="_blank"><i class="fas fa-book"></i></a>
 
 Cartwright, M., Mendez, A. Cramer, J., Lostanlen, V., Dove, G., **Wu, H.**,  Salamon, J., Nov, O., and Bello, J. P. (2019). SONYC Urban Sound Tagging (SONYC-UST): A Multilabel Dataset from an Urban Acoustic Sensor Network. DCASE2019.
-<a href="https://archive.nyu.edu/bitstream/2451/60776/1/DCASE2019Workshop_Cartwright_4.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="https://archive.nyu.edu/bitstream/2451/60776/1/DCASE2019Workshop_Cartwright_4.pdf" target="_blank"><i class="fas fa-book"></i></a>
 
 Husain, H., **Wu, H. H.**, Gazit, T., Allamanis, M., & Brockschmidt, M. (2019). Codesearchnet challenge: Evaluating the state of semantic code search. arXiv preprint arXiv:1909.09436.
-<a href="https://arxiv.org/pdf/1909.09436.pdf" target="_blank"><i class="far fa-file-pdf"></i></a> <a href="https://github.com/github/CodeSearchNet" target="_blank"><i class="fab fa-github"></i></a>
+<a href="https://arxiv.org/pdf/1909.09436.pdf" target="_blank"><i class="fas fa-book"></i></a> <a href="https://github.com/github/CodeSearchNet" target="_blank"><i class="fab fa-github"></i></a>
 
 Cramer, J.<sup>*</sup>, **Wu, H. H.**<sup>*</sup>, Salamon, J., & Bello, J. P. (2019). Look, Listen, and Learn More: Design Choices for Deep Audio Embeddings. ICASSP, 2019.
-<a href="https://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf" target="_blank"><i class="far fa-file-pdf"></i></a> <a href="https://github.com/marl/openl3" target="_blank"><i class="fab fa-github"></i></a>
+<a href="https://www.justinsalamon.com/uploads/4/3/9/4/4394963/cramer_looklistenlearnmore_icassp_2019.pdf" target="_blank"><i class="fas fa-book"></i></a> <a href="https://github.com/marl/openl3" target="_blank"><i class="fab fa-github"></i></a>
 
 **Wu, H. H.**, & Bello, J. P. (2010). Audio-based music visualization for music structure analysis. In Proceedings of Sound and Music Computing Conference (SMC) (pp. 1-6).
-<a href="https://core.ac.uk/download/pdf/144846461.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="https://core.ac.uk/download/pdf/144846461.pdf" target="_blank"><i class="fas fa-book"></i></a>
 
 Chen, C. W., Lee, K., & **Wu, H. H.** (2009). Towards a class-based representation of perceptual tempo for music retrieval. In 2009 International Conference on Machine Learning and Applications (pp. 602-607). IEEE.
-<a href="http://www.cwlabs.com/publications/ICMLA09-ChenEtAl-ClassBasedPerceptualTempo.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="http://www.cwlabs.com/publications/ICMLA09-ChenEtAl-ClassBasedPerceptualTempo.pdf" target="_blank"><i class="fas fa-book"></i></a>
 
 Chen, C. W., Cremer, M., Lee, K., DiMaria, P., & **Wu, H. H.** (2009). Improving perceived tempo estimation by statistical modeling of higher-level musical descriptors. In Audio Engineering Society Convention 126. Audio Engineering Society.
-<a href="http://cwlabs.com/publications/AES126-ChenEtAl-ImprovingPerceivedTempoEstimation.pdf" target="_blank"><i class="far fa-file-pdf"></i></a>
+<a href="http://cwlabs.com/publications/AES126-ChenEtAl-ImprovingPerceivedTempoEstimation.pdf" target="_blank"><i class="fas fa-book"></i></a>
 
 # Talks
 Husain, H., **Wu, H. H.** (2018). Feature Extraction and Summarization with Sequence to Sequence Learning. KDD 2018 Hands-On Tutorials.
