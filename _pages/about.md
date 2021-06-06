@@ -40,6 +40,6 @@ Chen, C. W., Lee, K., & **Wu, H. H.** (2009). Towards a class-based representati
 Chen, C. W., Cremer, M., Lee, K., DiMaria, P., & **Wu, H. H.** (2009). Improving perceived tempo estimation by statistical modeling of higher-level musical descriptors. In Audio Engineering Society Convention 126. Audio Engineering Society.
 <a href="http://cwlabs.com/publications/AES126-ChenEtAl-ImprovingPerceivedTempoEstimation.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 
-# Talks
+# Tutorials
 Husain, H., **Wu, H. H.** (2018). Feature Extraction and Summarization with Sequence to Sequence Learning. KDD 2018 Hands-On Tutorials.
 <a href="https://www.kdd.org/kdd2018/hands-on-tutorials/view/feature-extraction-and-summarization-with-sequence-to-sequence-learning" target="_blank"><i class="fas fa-link"></i></a> <a href="https://github.com/hohsiangwu/kdd-2018-hands-on-tutorials" target="_blank"><i class="fab fa-github"></i></a>
