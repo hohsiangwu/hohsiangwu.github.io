@@ -13,7 +13,10 @@ Ho-Hsiang Wu is currently a PhD Candidate in [Music Technology](https://steinhar
 He was a research intern at [Descript](https://www.descript.com/), and he also worked as an applied scientist intern at [Amazon Alexa](https://developer.amazon.com/en-US/alexa). Before starting his PhD journey, he worked in industry for several years building machine learning products. He holds MS degree in Electrical Engineering from [University of California, Los Angeles](https://www.ucla.edu/) and BS degree from [National Taiwan University](https://www.ntu.edu.tw/english/).
 
 # Publications
-**Wu, H. H.**, Seetharaman, P., Kumar, K., & Bello, J. P. (2021). Wav2CLIP: Learning Robust Audio Representations From CLIP. ICASSP, 2022.
+**Wu, H. H.**, Fuentes, M., Seetharaman, P., & Bello, J. P. (2022). How to Listen? Rethinking Visual Sound Localization. Submitted to INTERSPEECH, 2022.
+<a href="https://arxiv.org/pdf/2204.05156.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> <a href="https://github.com/hohsiangwu/rethinking-visual-sound-localization" target="_blank"><i class="fab fa-github"></i></a>
+
+**Wu, H. H.**, Seetharaman, P., Kumar, K., & Bello, J. P. (2022). Wav2CLIP: Learning Robust Audio Representations From CLIP. ICASSP, 2022.
 <a href="https://arxiv.org/pdf/2110.11499.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> <a href="https://github.com/descriptinc/lyrebird-wav2clip" target="_blank"><i class="fab fa-github"></i></a>
 
 **Wu, H. H.**, Fuentes, M., Bello, J. P. (2021). Exploring Modality-Agnostic Representations for Music Classification. SMC, 2021.
