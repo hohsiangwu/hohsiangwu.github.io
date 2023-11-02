@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Ho-Hsiang Wu is currently a PhD Candidate in [Music Technology](https://steinhardt.nyu.edu/programs/music-technology) program at New York University, advised by [Dr. Juan Pablo Bello](https://wp.nyu.edu/jpbello/). His research interests focus on design and evaluation of audio representation learning for machine listening systems, applying self-supervised and unsupervised learning techniques to tackle limited labeled data problems.
+Ho-Hsiang Wu is currently a research scientist at [Bosch Research](https://www.bosch.com/research/). He finished his PhD in [Music Technology](https://steinhardt.nyu.edu/programs/music-technology) program at New York University, advised by [Dr. Juan Pablo Bello](https://wp.nyu.edu/jpbello/). His research interests focus on design and evaluation of audio representation learning for machine listening systems, applying self-supervised and unsupervised learning techniques to tackle limited labeled data problems.
 
-He was a research intern at [Descript](https://www.descript.com/), and he also worked as an applied scientist intern at [Amazon Alexa](https://developer.amazon.com/en-US/alexa). Before starting his PhD journey, he worked in industry for several years building machine learning products. He holds MS degree in Electrical Engineering from [University of California, Los Angeles](https://www.ucla.edu/) and BS degree from [National Taiwan University](https://www.ntu.edu.tw/english/).
+He was a research intern at [Adobe Research](https://research.adobe.com/) and [Descript](https://www.descript.com/), and he also worked as an applied scientist intern at [Amazon Alexa](https://developer.amazon.com/en-US/alexa). Before starting his PhD journey, he worked in industry for several years building machine learning products. He holds MS degree in Electrical Engineering from [University of California, Los Angeles](https://www.ucla.edu/) and BS degree from [National Taiwan University](https://www.ntu.edu.tw/english/).
 
 # Publications
+Ghaffarzadegan, S., Bondi, L., **Wu, H.-H.**, Munir, S., Shields, K.J., Das, S., Aracri, J. (2023). Active Learning for Abnormal Lung Sound Data Curation and Detection in Asthma. INTERSPEECH, 2023,
+<a href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/ghaffarzadegan23_interspeech.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+
+**Wu, H. H.**, Nieto, O., Bello, J. P., & Salomon, J. (2023). Audio-Text Models Do Not Yet Leverage Natural Language. ICASSP, 2023.
+<a href="https://arxiv.org/pdf/2303.10667.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+
 **Wu, H. H.**, Fuentes, M., Seetharaman, P., & Bello, J. P. (2022). How to Listen? Rethinking Visual Sound Localization. INTERSPEECH, 2022.
 <a href="https://arxiv.org/pdf/2204.05156.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a> <a href="https://github.com/hohsiangwu/rethinking-visual-sound-localization" target="_blank"><i class="fab fa-github"></i></a>
 
