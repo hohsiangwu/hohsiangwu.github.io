@@ -13,7 +13,18 @@ Ho-Hsiang Wu is currently a research scientist at [Bosch Research](https://www.b
 He was a research intern at [Adobe Research](https://research.adobe.com/) and [Descript](https://www.descript.com/), and he also worked as an applied scientist intern at [Amazon Alexa](https://developer.amazon.com/en-US/alexa). Before starting his PhD journey, he worked in industry for several years building machine learning products. He holds MS degree in Electrical Engineering from [University of California, Los Angeles](https://www.ucla.edu/) and BS degree from [National Taiwan University](https://www.ntu.edu.tw/english/).
 
 # Publications
-Ghaffarzadegan, S., Bondi, L., **Wu, H.-H.**, Munir, S., Shields, K.J., Das, S., Aracri, J. (2023). Active Learning for Abnormal Lung Sound Data Curation and Detection in Asthma. INTERSPEECH, 2023,
+Tatiya, G., Francis, J., **Wu, H. H.**, Bisk, Y., & Sinapov, J. (2024). MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception. ICRA, 2024.
+<a href="https://arxiv.org/pdf/2309.08508.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+
+Kim, G., **Wu, H. H.**, Bondi, L., & Liu, B. (2024). Multi-Modal Continual Pre-Training for Audio Encoders. ICASSP, 2024.
+<a href="https://www.cs.uic.edu/~liub/publications/icassp_2024_gyuhak.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+
+Lin, W. C., Ghaffarzadegan, S., Bondi, L., Kumar, A., Das, S., & **Wu, H. H.** (2024). CLAP4EMO: ChatGPT-Assisted Speech Emotion Retrieval with Natural Language Supervision. ICASSP, 2024.
+
+Vosoughi, A., Bondi, L., **Wu, H. H.**, & Xu, C. (2024). Learning Audio Concepts from Counterfactual Natural Language. ICASSP, 2024.
+<a href="https://arxiv.org/pdf/2401.04935.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
+
+Ghaffarzadegan, S., Bondi, L., **Wu, H.-H.**, Munir, S., Shields, K.J., Das, S., Aracri, J. (2023). Active Learning for Abnormal Lung Sound Data Curation and Detection in Asthma. INTERSPEECH, 2023.
 <a href="https://www.isca-speech.org/archive/pdfs/interspeech_2023/ghaffarzadegan23_interspeech.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 
 **Wu, H. H.**, Nieto, O., Bello, J. P., & Salomon, J. (2023). Audio-Text Models Do Not Yet Leverage Natural Language. ICASSP, 2023.
