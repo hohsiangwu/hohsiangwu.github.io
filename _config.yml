@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ho-Hsiang Wu"
 title_separator          : "-"
 name                     : &name "Ho-Hsiang Wu"
-description              : &description "PhD Candidate in Music Technology"
+description              : &description "Research Scientist at Bosch Research"
 url                      : https://hohsiangwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hohsiangwu/hohsiangwu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ho-Hsiang Wu"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
+  bio              : "Research Scientist"
   location         : "New York, NY"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "hohsiangwu"
-  orcid            : # "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1102-074X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
