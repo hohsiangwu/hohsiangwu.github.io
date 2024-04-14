@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Ho-Hsiang Wu is currently a research scientist at [Bosch Research](https://www.bosch.com/research/). He finished his PhD in [Music Technology](https://steinhardt.nyu.edu/programs/music-technology) program at New York University, advised by [Dr. Juan Pablo Bello](https://wp.nyu.edu/jpbello/). His research interests focus on design and evaluation of audio representation learning for machine listening systems, applying self-supervised and unsupervised learning techniques to tackle limited labeled data problems.
+Ho-Hsiang Wu is currently a Sr. Research Scientist at [Bosch Research](https://www.bosch.com/research/). He finished his PhD in [Music Technology](https://steinhardt.nyu.edu/programs/music-technology) program at New York University, advised by [Dr. Juan Pablo Bello](https://wp.nyu.edu/jpbello/). His research interests focus on Multimodal Foundation Model, Machine Learning & Signal Processing, and Embodied AI.
 
 He was a research intern at [Adobe Research](https://research.adobe.com/) and [Descript](https://www.descript.com/), and he also worked as an applied scientist intern at [Amazon Alexa](https://developer.amazon.com/en-US/alexa). Before starting his PhD journey, he worked in industry for several years building machine learning products. He holds MS degree in Electrical Engineering from [University of California, Los Angeles](https://www.ucla.edu/) and BS degree from [National Taiwan University](https://www.ntu.edu.tw/english/).
 
