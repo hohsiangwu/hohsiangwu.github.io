@@ -12,7 +12,9 @@ Ho-Hsiang Wu is currently a Sr. Research Scientist at [Bosch Research](https://w
 He was a research intern at [Adobe Research](https://research.adobe.com/) and [Descript](https://www.descript.com/), and he also worked as an applied scientist intern at [Amazon Alexa](https://developer.amazon.com/en-US/alexa). Before starting his PhD journey, he worked in industry for several years building machine learning products. He holds MS degree in Electrical Engineering from [University of California, Los Angeles](https://www.ucla.edu/) and BS degree from [National Taiwan University](https://www.ntu.edu.tw/english/).
 
 # Publications
-Lin, W. C., Ghazi, I., Belsarkar, A., Bondi, L., Das, S., & **Wu, H. H.** (2024). CLAP4SED: TRAINING-FREE MULTIMODAL FEW-SHOT RETRIEVAL FOR REAL-TIME SOUND EVENT DETECTION ON EMBEDDED DEVICES. DCASE, 2024.
+Ronchini, F., **Wu, H. H.**, Lin, W. C., Antonacci, F. (2025). Mind the Prompt: Prompting Strategies in Audio Generations for Improving Sound Classification. ICASSP GenDA Workshop, 2025.
+
+Lin, W. C., Ghazi, I., Belsarkar, A., Bondi, L., Das, S., & **Wu, H. H.** (2024). CLAP4SED: Training-Free Multimodal Few-Shot Retrieval for Real-Time Sound Event Detection on Embeded Devices. DCASE, 2024.
 <a href="https://dcase.community/documents/workshop2024/proceedings/DCASE2024Workshop_Lin_14.pdf" target="_blank"><i class="fas fa-file-pdf"></i></a>
 
 Ghaffarzadegan, S., Bondi, L., Lin, W. C., Kumar, A., **Wu, H. H.**, Horst, H. G., & Das, S. (2024). Sound of Traffic: A Dataset for Acoustic Traffic Identification and Counting. INTERSPEECH, 2024.
